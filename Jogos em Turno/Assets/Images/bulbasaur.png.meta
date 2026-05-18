@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 0943c161196153043b1c2605798492ac
+guid: 230da6c682a2a6f45b5ff374dd0b0e97
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -585007850708138175
-    second: caixa 2_0
+      213: -4938946576939203426
+    second: bulbasaur_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -139,23 +139,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: caixa 2_0
+      name: bulbasaur_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
+        x: 7
+        y: 17
+        width: 65
+        height: 46
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 5, y: 4, z: 4, w: 5}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1470ab39572a1e7f0800000000000000
-      internalID: -585007850708138175
+      spriteID: e9448e48146557bb0800000000000000
+      internalID: -4938946576939203426
       vertices: []
       indices: 
       edges: []
@@ -164,7 +164,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 9d60b846e86a6e84196a3a762ab13765
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -174,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      caixa 2_0: -585007850708138175
+      bulbasaur_0: -4938946576939203426
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
